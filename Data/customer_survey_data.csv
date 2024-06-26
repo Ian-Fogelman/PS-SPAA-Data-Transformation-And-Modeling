@@ -1,0 +1,101 @@
+RecordID,Name,Age,Gender,Education,Employment,Income,MaritalStatus,City,Satisfaction,Recommendation
+1,John - Doe,35,M,Bachelor's Degree,Employed,50000,Married,New York,7,8
+2,Jane Smith,28,Female,Master's Degree,Employed,60000,Single,Los Angeles,6,7
+3,Michael Johnson,42,Male,High School Diploma,Employed,40000,Married,Chicago,8,9
+4,Emily Williams,31,Female,Bachelor's Degree,Employed,55000,Single,Miami,5,6
+5,James Brown,39,M,PhD,Self-Employed,80000,Married,Boston,9,10
+6,Emma Taylor,26,Female,Bachelor's Degree,Employed,45000,Single,San Francisco,6,8
+7,William Clark,45,Male,Master's Degree,Employed,70000,Married,Houston,8,9
+8,Olivia Miller,33,Female,High School Diploma,Employed,38000,Married,Dallas,7,7
+9,Liam Anderson,29,Male,Bachelor's Degree,Employed,52000,Single,Seattle,6,7
+10,Sophia Lewis,37,F,PhD,Employed,85000,Married,Atlanta,9,9
+11,Benjamin Thomas,30,Male,Master's Degree,Employed,60000,Married,Philadelphia,7,8
+12,Ava Hall,34,Female,High School Diploma,Unemployed,0,Single,San Diego,4,6
+13,Alexander - White,27,Male,Bachelor's Degree,Employed,48000,Single,Phoenix,6,7
+14,Charlotte Jackson,43,Female,Bachelor's Degree,Employed,58000,Married,Denver,7,8
+15,Ethan Harris,32,Male,High School Diploma,Employed,42000,Married,Tampa,5,7
+16,Mia Martin,29,Female,Master's Degree,Employed,65000,Single,Detroit,8,9
+17,David Anderson,38,Male,PhD,Employed,90000,Married,Minneapolis,9,10
+18,Sofia Moore,25,Female,Bachelor's Degree,Employed,45000,Single,Portland,6,7
+19,Joseph King,31,Male,High School Diploma,Self-Employed,55000,Married,Charlotte,7,8
+20,Amelia Cooper,36,F,Master's Degree,Employed,70000,Married,Orlando,8,9
+21,Lucas Hill,28,Female,PhD,Employed,75000,Single,Washington,9,9
+22,Grace Walker,39,Male,Bachelor's Degree,Employed,55000,Married,Chicago,6,7
+23,Aiden - Green,32,Female,High School Diploma,Employed,48000,Married,Boston,7,8
+24,Harper Young,27,Male,Bachelor's Degree,Employed,52000,Single,Los Angeles,5,7
+25,Christopher Allen,44,F,Master's Degree,Employed,65000,Married,San Francisco,8,9
+26,Lily Wright,30,Male,High School Diploma,Employed,42000,Married,Houston,6,7
+27,Daniel Robinson,26,Female,Bachelor's Degree,Employed,48000,Single,Miami,7,8
+28,Sofia Hall,41,Male,PhD,Employed,80000,Married,Seattle,9,10
+29,Logan - Turner,33,F,Master's Degree,Employed,60000,Married,Atlanta,8,9
+30,Ella Lee,29,Male,Bachelor's Degree,Employed,55000,Single,Philadelphia,6,7
+31,William Parker,35,Female,High School Diploma,Unemployed,0,Single,San Diego,5,7
+32,Avery Carter,27,Male,Bachelor's Degree,Employed,52000,Single,Phoenix,7,8
+33,Lincoln Gonzalez,44,Female,Master's Degree,Employed,70000,Married,Denver,8,9
+34,Chloe Harris,31,Male,High School Diploma,Employed,45000,Married,Dallas,6,7
+35,Michael Walker,37,Female,PhD,Employed,85000,Married,Houston,9,9
+36,Emily - Moore,30,Female,Master's Degree,Employed,62000,Single,Seattle,8,8
+37,James Phillips,46,Male,High School Diploma,Employed,48000,Married,Chicago,7,7
+38,Olivia Hall,28,Female,Bachelor's Degree,Employed,53000,Single,Boston,6,7
+39,Benjamin Clark,34,M,PhD,Employed,78000,Married,Miami,9,9
+40,Ava Lopez,32,Female,Master's Degree,Employed,67000,Married,San Francisco,8,8
+41,Alexander - Turner,26,Male,Bachelor's Degree,Employed,50000,Single,Los Angeles,7,8
+42,Sophia Campbell,43,Female,High School Diploma,Employed,42000,Married,Houston,6,7
+43,Joseph Roberts,29,Male,PhD,Employed,75000,Married,Atlanta,8,9
+44,Mia Hill,31,Female,Master's Degree,Employed,60000,Single,Philadelphia,7,8
+45,David Ross,38,Male,High School Diploma,Employed,48000,Married,Phoenix,6,7
+46,Lucy Perez,27,Female,Bachelor's Degree,Employed,52000,Single,Denver,5,6
+47,Logan Cooper,45,Male,PhD,Employed,90000,Married,Seattle,9,10
+48,Emma - Richardson,33,Female,Master's Degree,Employed,65000,Married,Portland,8,9
+49,Ethan Phillips,29,Male,High School Diploma,Employed,45000,Married,Boston,7,8
+50,Charlotte Smith,36,F,PhD,Employed,78000,Single,Los Angeles,9,9
+51,Noah Kelly,28,Male,Bachelor's Degree,Employed,53000,Single,Miami,8,8
+52,Sophia Reed,42,Female,High School Diploma,Employed,40000,Married,Houston,7,7
+53,Lucas Cox,27,Male,Master's Degree,Employed,62000,Married,Seattle,6,7
+54,Avery Collins,32,Female,Bachelor's Degree,Employed,55000,Single,Atlanta,7,8
+55,William Rivera,39,Male,PhD,Employed,85000,Married,Philadelphia,8,9
+56,Olivia Hall,30,Female,Master's Degree,Employed,60000,Married,Chicago,9,9
+57,Mason Morris,34,Male,High School Diploma,Employed,48000,Married,Dallas,6,7
+58,Ava Gonzalez,26,Female,Bachelor's Degree,Employed,52000,Single,Los Angeles,7,8
+59,Aiden Cook,43,Male,PhD,Employed,78000,Married,San Francisco,9,10
+60,Emily Allen,33,Female,Master's Degree,Employed,67000,Married,Denver,8,9
+61,James Hill,29,Male,High School Diploma,Employed,42000,Single,Phoenix,6,7
+62,Isabella Turner,27,Female,Bachelor's Degree,Employed,53000,Single,Portland,6,7
+63,Ethan - Walker,44,Male,PhD,Employed,90000,Married,Miami,9,9
+64,Emily Parker,32,Female,Master's Degree,Employed,65000,Married,Seattle,8,8
+65,Liam Smith,29,Male,High School Diploma,Employed,45000,Married,Boston,7,8
+66,Abigail Adams,36,Female,PhD,Employed,80000,Single,Los Angeles,8,9
+67,Lucas Carter,28,M,Bachelor's Degree,Employed,55000,Single,Miami,7,8
+68,Charlotte Reed,42,Female,High School Diploma,Employed,40000,Married,Houston,6,7
+69,Benjamin Cook,31,Male,Master's Degree,Employed,62000,Married,Seattle,7,8
+70,Ava Baker,33,Female,Bachelor's Degree,Employed,57000,Single,Atlanta,6,7
+71,William Morris,39,Male,PhD,Employed,85000,Married,Philadelphia,9,10
+72,Sophia Young,27,F,Master's Degree,Employed,60000,Married,Chicago,8,9
+73,Mason Turner,31,Male,High School Diploma,Employed,43000,Married,Dallas,7,8
+74,Ava Harris,26,Female,Bachelor's Degree,Employed,52000,Single,Los Angeles,6,7
+75,Ethan Collins,45,Male,PhD,Employed,79000,Married,San Francisco,9,9
+76,Olivia Rivera,33,Female,Master's Degree,Employed,67000,Married,Seattle,8,9
+77,Noah Martinez,29,Male,High School Diploma,Employed,46000,Married,Boston,6,7
+78,Sophia - Peterson,38,Female,PhD,Employed,83000,Single,Denver,7,8
+79,Logan Howard,28,Male,Bachelor's Degree,Employed,55000,Single,Houston,7,8
+80,Ava Perez,35,Female,High School Diploma,Employed,40000,Married,Miami,6,7
+81,William Adams,32,Male,Master's Degree,Employed,60000,Married,Los Angeles,8,9
+82,Emily Turner,29,Female,Bachelor's Degree,Employed,54000,Single,Chicago,7,8
+83,Liam Carter,44,Male,PhD,Employed,87000,Married,Dallas,9,9
+84,Sophia Harris,31,F,Master's Degree,Employed,63000,Married,Seattle,8,8
+85,Aiden Parker,27,Male,High School Diploma,Employed,47000,Single,Boston,6,7
+86,Olivia Ross,40,Female,Bachelor's Degree,Employed,52000,Married,Los Angeles,6,7
+87,James Evans,30,Male,PhD,Employed,80000,Married,San Francisco,9,10
+88,Sophia Stewart,33,Female,Master's Degree,Employed,68000,Married,Portland,8,9
+89,Ethan Phillips,27,Male,High School Diploma,Employed,44000,Married,Denver,7,8
+90,Emily Allen,34,Female,PhD,Employed,78000,Single,Phoenix,7,8
+91,Liam Kelly,29,Male,Bachelor's Degree,Employed,56000,Single,Dallas,6,7
+92,Abigail Ward,38,Female,High School Diploma,Employed,42000,Married,Miami,6,7
+93,Lucas Rivera,30,Male,Master's Degree,Employed,62000,Married,Seattle,8,9
+94,Charlotte Wilson,43,Female,Bachelor's Degree,Employed,55000,Married,Boston,7,8
+95,Benjamin Roberts,31,M,PhD,Employed,89000,Married,Los Angeles,9,9
+96,Ava Cook,33,Female,Master's Degree,Employed,64000,Married,San Francisco,8,9
+97,William Hill,27,Male,High School Diploma,Employed,46000,Single,Seattle,6,7
+98,Olivia Martinez,41,Female,Bachelor's Degree,Employed,53000,Married,Portland,6,7
+99,Mason Reed,29,Male,PhD,Employed,82000,Married,Denver,9,10
+100,Ella - Brown,32,Female,Master's Degree,Employed,70000,Married,Phoenix,8,9
